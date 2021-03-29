@@ -1,0 +1,6 @@
+﻿  3.3C.cpp
+  LongLong.cpp
+D:\Lab-3\3.3C\3.3C\LongLong.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Object.cpp
+  Создание кода...
+  3.3C.vcxproj -> D:\Lab-3\3.3C\Debug\3.3C.exe

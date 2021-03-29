@@ -1,0 +1,5 @@
+﻿  UnitTest3.3С.cpp
+D:\Lab-3\3.3C\UnitTest3.3С\UnitTest3.3С.cpp(5,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     Создается библиотека D:\Lab-3\3.3C\Debug\UnitTest3.3С.lib и объект D:\Lab-3\3.3C\Debug\UnitTest3.3С.exp
+LINK : warning LNK4232: имя UnitTest3.3С.dll содержит не ASCII символы, DLL нельзя будет загрузить в систему с кодовой страницей ANSI, отличной от 1251
+  UnitTest3.3С.vcxproj -> D:\Lab-3\3.3C\Debug\UnitTest3.3С.dll
